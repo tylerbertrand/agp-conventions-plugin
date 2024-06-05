@@ -1,0 +1,3 @@
+plugins {
+    id "android-instrumentation-junit-xml-import"
+}

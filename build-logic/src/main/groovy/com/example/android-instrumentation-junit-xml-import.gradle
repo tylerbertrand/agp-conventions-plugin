@@ -1,0 +1,5 @@
+import com.android.build.gradle.internal.tasks.DeviceProviderInstrumentTestTask
+
+tasks.withType(DeviceProviderInstrumentTestTask).names.each {
+    // configure JUnit XML import
+}
